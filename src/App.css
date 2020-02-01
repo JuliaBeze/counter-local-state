@@ -1,0 +1,37 @@
+
+.left-display{
+  width: 300px;
+  height: 300px;
+  margin-top: 250px;
+  margin-left: 300px;
+  border-style: solid;
+  border-color: black;
+  background-image: url("http://fengshui-bazi-qimen.ru/images/znachenie-tsifr-v-kitajskoj-traditsii.jpg");
+}
+.value{
+  width: 300px;
+  height: 300px;
+  margin-top: -290px;
+  margin-left: 600px;
+  border: solid black;
+  font-family: "Times New Roman";
+  color: black;
+  background-color: blue;
+  background-image: url("http://fengshui-bazi-qimen.ru/images/znachenie-tsifr-v-kitajskoj-traditsii.jpg");
+
+
+}
+
+
+
+.header{
+  font-family: fantasy;
+  font-size: 50px;
+  background-color: darkcyan;
+}
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+.settings {
+    width: 250px;
+    border-style: solid;
+    border-color: darkcyan;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    background-color: darkcyan;
+    margin-top: 35px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.settings input {
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: ghostwhite;
+    height: 30px;
+    border-color: cadetblue;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.errorInputSettings{
+    border-style: dashed;
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+
+
+
+}
